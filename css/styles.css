@@ -1,3 +1,7 @@
+li:hover{
+    background-color: lightcyan;   
+    }       
+
 body {
     margin:30px auto;
     max-width:850px;
