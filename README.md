@@ -1,4 +1,4 @@
-https://costargc.github.io/
+**check full resume:** https://costargc.github.io/
 
 <h1 align="center">Rodrigo Da Costa</h1>
 
