@@ -1,6 +1,12 @@
 https://costargc.github.io/
 
-Rodrigo Da Costa
-Phone: +1 718 427-1282 • email: costa.rgc@gmail.com • New York, US
+    <h1 id="centerme">Rodrigo Da Costa</h1>
 
-Certified Project Manager and Full Stack Developer with a strong Quant background, +8 years of experience in banking industry working on Market Risk Analytical Modeling & Projects on Trade Capture, Data Processing and Data Analysis for Risk, PnL, PLA and Market Data. Knowledgeable of financial principles, products, processes, systems and able to understand and communicate through analytical methods.
+    <p id="centerme"><strong>Phone: </strong>+1 718 427-1282 &bull; <strong>email: </strong> costa.rgc@gmail.com &bull;
+        New York, US</p>
+
+    <p>Certified Project Manager and Full Stack Developer with a strong Quant background, +8 years of experience in
+        banking industry working on Market
+        Risk Analytical Modeling &amp; Projects on Trade Capture, Data Processing and Data Analysis for Risk, PnL, PLA
+        and Market Data. Knowledgeable of financial principles, products, processes, systems and able to understand and
+        communicate through analytical methods.</p>
